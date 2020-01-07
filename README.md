@@ -3,6 +3,14 @@ I simplified [martinseilair's](https://github.com/martinseilair/dm_control2gym) 
 
 
 
+## Installation
+
+```bash
+$ pip install dm_control2gym
+```
+
+
+
 ## Usage
 
 - MDP tasks: `env` returns a state of a robot at each time-step
