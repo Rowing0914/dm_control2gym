@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dm_control2gym",
-    version="0.0.1",
+    version="0.0.2",
     author="Norio Kosaka",
     author_email="kosakaboat@gmail.com",
     description="dm_control suite for OpenAI Gym env",
