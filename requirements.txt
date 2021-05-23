@@ -4,7 +4,7 @@ certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
 cloudpickle==1.2.2
-cryptography==3.2
+cryptography==3.3.2
 Cython==0.29.14
 dm-control==0.0.289640211
 dm-env==1.2
