@@ -24,7 +24,7 @@ monotonic==1.5
 more-itertools==8.1.0
 mujoco-py==2.0.2.9
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 Pillow==8.1.1
 pkginfo==1.5.0.1
 pycparser==2.19
